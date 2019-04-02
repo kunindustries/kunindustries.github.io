@@ -10,5 +10,5 @@ Kun Industries -- makers of things.
 [kennyrkun](mailto:kennyrmccormick@gmail.com)
 
 ---
-[this website on github](http://github.com/kunindustries/kunindustries.github.io)
+[this website on github](http://github.com/kunindustries/kunindustries.github.io)  
 [Jekyll-Now](https://github.com/barryclark/jekyll-now)
