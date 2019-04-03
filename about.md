@@ -1,14 +1,20 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
-Kun Industries -- makers of things.
+We believe in doing things right. The right way, for the right reason.
 
-### Contact us
-[kennyrkun](mailto:kennyrmccormick@gmail.com)
+## Subsidiaries and Branches
+- Kun Militia  
+- [Lemonade Stand](../lemonade)  
+- [Technology Specialists](../tech)  
+- Jay Enterprises  
+- [Digital Media](../media)  
+- Engineering  
 
 ---
-[this website on github](http://github.com/kunindustries/kunindustries.github.io)  
-[Jekyll-Now](https://github.com/barryclark/jekyll-now)
+
+this website on [GitHub](http://github.com/kunindustries/kunindustries.github.io)  
+built with [Jekyll-Now](https://github.com/barryclark/jekyll-now)
