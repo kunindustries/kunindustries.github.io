@@ -15,20 +15,20 @@ avatar: https://avatars0.githubusercontent.com/u/40926044?s=500&v=4
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
+  dribbble: test
   email: contact@kunindustries.com
-  facebook:
-  flickr:
+  facebook: test
+  flickr: test
   github: kunindustries
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter:
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-  reddit:
+  instagram: test
+  linkedin: test
+  pinterest: test
+  rss: test # just type anything here for a working RSS icon
+  twitter: test
+  stackoverflow: test # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: test # channel/<your_long_string> or user/<user-name>
+  googleplus: test # anything in your profile username that comes after plus.google.com/
+  reddit: test
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
