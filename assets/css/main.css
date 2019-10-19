@@ -5005,19 +5005,19 @@ sup {
     height: auto
 }
 
-.tech {
+.skill {
     margin: 10px;
     flex: 1 1 0
 }
 
-.tech h2,
-.tech h3,
-.user-details h1,
+.skill h2,
+.skill h3,
+.company-details h1,
 body {
     font-weight: 400
 }
 
-.user {
+.company {
     text-align: center;
     font-size: 60px;
     display: flex;
@@ -5026,18 +5026,18 @@ body {
     justify-content: space-between
 }
 
-.user p {
+.company p {
     font-size: 16px
 }
 
 @media only screen and (min-width:768px) {
-    .user {
+    .company {
         flex-wrap: nowrap;
         font-size: 75px
     }
 }
 
-.user-details {
+.company-details {
     text-align: center;
     margin: 5px auto
 }
@@ -5058,4 +5058,14 @@ body {
     text-decoration: none;
     margin: 0;
     color: #fff
+}
+
+.footer-left
+{
+	
+}
+
+.footer-right
+{
+
 }
