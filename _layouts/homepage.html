@@ -4,6 +4,10 @@
 		<title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title> 
 	  
 		{% include meta.html %}
+		
+		<!--[if lt IE 9]>
+			<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
 
 		<link rel="stylesheet" href="{{ '/assets/css/main.css' | prepend: site.baseurl }}">
 		<link rel="shortcut icon" type="image/png" href="{{ '/assets/favicon.png' }}" >
@@ -14,29 +18,36 @@
 	</head>
 	
 	<body>
-		<div class="wrapper-masthead">
-			<div class="container">
-				<header class="masthead clearfix">
-					<a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-
-					<div class="site-info">
-						<h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-						<p class="site-description">{{ site.description }}</p>
-					</div>
-
-					<nav>
-						<a href="{{ site.baseurl }}/">Home</a>
-						<a href="{{ site.baseurl }}/blog">Blog</a>
-						<a href="{{ site.baseurl }}/about">About</a>
-					</nav>
-				</header>
-			</div>
+		<div id="particles-js">
+			  <div class="header">
+				  <h1>
+					<span class="site-title">{{ site.name }}</span>
+					<span class="site-description">{{ site.description }}</span>
+				  </h1>
+				  
+				  <div class="header-icons">
+					{% include svg-icons.html %}
+					<!--
+					<a aria-label="Send email" href="mailto:mauriurraco@gmail.com"><i class="icon fa fa-envelope"></i></a>
+					<a aria-label="Instagram" target="_blank" href="https://www.instagram.com/mauriciourraco7"><i class="icon fa fa-instagram" aria-hidden="true"></i></a>
+					<a aria-label="Facebook" target="_blank" href="https://www.facebook.com/mauricio.urraco"><i class="icon fa fa-facebook" aria-hidden="true"></i></a>
+					<a aria-label="LinkedIn" target="_blank" href="https://www.linkedin.com/in/murraco"><i class="icon fa fa-linkedin" aria-hidden="true"></i></a>
+					<a aria-label="Github" target="_blank" href="https://github.com/murraco"><i class="icon fa fa-github-alt" aria-hidden="true"></i></a>
+					-->
+				  </div>
+				  
+				  <div class="header-links">
+					<!-- <a class="link" href="#about" data-scroll>About Me</a> -->
+				  </div>
+			  </div>
+			  
+			  <a class="down" href="#about" data-scroll><i class="icon fa fa-chevron-down" aria-hidden="true"></i></a>
 		</div>
-
-		{% include header.html %}
+		
 		<section id="about">
 		{% include about.html %}
 		</section>
+		
 		{{ content }}
 		{% include footer.html %}
 	</body>
