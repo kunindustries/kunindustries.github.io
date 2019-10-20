@@ -5062,17 +5062,22 @@ body {
 
 .footer-icons
 {
+	display: inline-block;
 	margin-bottom: -7px;
 }
 
 .footer-left
 {
+	display: inline-block;
 	position: absolute;
-	left: 5%
+	left: 5%;
+	margin-bottom: -7px;
 }
 
 .footer-right
 {
+	display: inline-block;
 	position: absolute;
-	right: 95%
+	right: 95%;
+	margin-bottom: -7px;
 }
