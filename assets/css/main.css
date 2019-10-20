@@ -4836,7 +4836,7 @@ sup {
 }
 
 #particles-js {
-    background: #1a222c;
+    background: #494949;
     display: flex;
     vertical-align: bottom;
     min-height: 100vh;
@@ -4939,7 +4939,7 @@ sup {
 
 .header-icons .icon:active,
 .header-icons .icon:hover {
-    color: #1a222c;
+    color: 494949;
     background: #fff
 }
 
@@ -5043,7 +5043,7 @@ body {
 }
 
 .footer {
-    background: #1a222c;
+    background: 494949;
     padding: 10px 0;
     margin-top: 100px;
     text-align: center;
