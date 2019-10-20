@@ -5067,10 +5067,12 @@ body {
 
 .footer-left
 {
-	
+	position: absolute;
+	left: 5%
 }
 
 .footer-right
 {
-
+	position: absolute;
+	right: 95%
 }
