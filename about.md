@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+{% include about.html %}
+
 We believe in doing things right. The right way, for the right reason.
 
 ## Subsidiaries and Branches
