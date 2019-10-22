@@ -9,13 +9,8 @@
 			<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 		<![endif]-->
 		
-		<!-- I might want to replace the animated header particle things with a pretty picture instead? -->
-
-		<link rel="stylesheet" href="{{ '/assets/css/main.css' | prepend: site.baseurl }}">
-		<link rel="shortcut icon" type="image/png" href="{{ '/assets/favicon.png' }}" >
-		<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
-		
 		<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+		<link rel="shortcut icon" type="image/png" href="{{ '/images/favicon.png' }}" >
 		<link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 	</head>
 	
@@ -29,9 +24,9 @@
 		</div>
 
 		<div class="wrapper-footer">
-		  <footer class="footer">
-			{% include svg-icons.html %}
-		  </footer>
+			<footer class="footer">
+				{% include svg-icons.html %}
+			</footer>
 		</div>
 
 		{% include analytics.html %}
