@@ -15,10 +15,10 @@ The main drive behind Kun Industries is to be good people. We want to help peopl
 - Kun Militia 
 - Engineering  
 
-Contact Email: contact@kunindustries.com
-Support Email: support@kunindustries.com
-
-Specific employees email addresses can be acquired by asking that employee, or guessing cleverly.
+Contact Email: contact@kunindustries.com  
+Support Email: support@kunindustries.com  
+  
+Email addresses for specific employees can be acquired by asking that employee, or guessing cleverly.
 
 ---
 
