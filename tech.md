@@ -4,8 +4,7 @@ title: Technology Specialists
 permalink: /tech/
 ---
 
-Well, we like to believe we're pretty tech savvy
-need your things fixed? give us a call! we'll put it right back together, good as new!
+Well, we like to believe we're pretty tech savvy. Why not let us prove it to you, at a fair price?
 
 # Hardware
 We can repair:
