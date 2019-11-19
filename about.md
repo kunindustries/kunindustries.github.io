@@ -22,4 +22,4 @@ Email addresses for specific employees can be acquired by asking that employee, 
 
 ---
 
-[This website is on GitHub](https://github.com/kunindustries/kunindustries.github.io), and it was built using [Jekyll-Now](https://github.com/barryclark/jekyll-now)
+[This website is on GitHub](https://github.com/kunindustries/kunindustries.github.io), and it was built using [Jekyll-Now](https://github.com/barryclark/jekyll-now) | [Employee Portal](http://employee.kunindustries.com)
