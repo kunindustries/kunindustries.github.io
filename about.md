@@ -10,8 +10,8 @@ Kun Industries is basically just a way to keep our business operations separate 
 The main drive behind Kun Industries is to be good people. We want to help people, and make people happy; and we want to do it right.  
 
 ## Subsidiaries and Branches
-- [Technology Specialists](../tech)  
-- [Digital Media](../media)
+- [Technology Specialists](../services/tech)  
+- [Digital Media](../services/media)
 - Kun Militia 
 - Engineering  
 
