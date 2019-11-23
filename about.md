@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-permalink: /about/
+permalink: /about
 ---
 
 Kun Industries is basically just a way to keep our business operations separate from our personal operations. That isn't to say it's not serious, however.  

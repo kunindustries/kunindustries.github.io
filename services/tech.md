@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Technology Specialists
-permalink: /tech/
+permalink: /tech
 ---
 
 Well, we like to believe we're pretty tech savvy. Why not let us prove it to you, at a fair price?
