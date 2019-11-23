@@ -5,8 +5,8 @@ title: Services
 
 <div class="blog">
 	{% for service in site.services %}
-		<h2>{{ service.name }} - {{ service.description }}</h2>
-
+		<h2>{{ service.name }}</h2>
+		<p>{{ service.description }}</p>
 		<a href="{{ service.link }}" class="more-information">More Information</a>
 	{% endfor %}
 </div>
