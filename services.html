@@ -1,0 +1,14 @@
+---
+layout: default
+title: projects
+---
+
+<div class="services">
+	{% for service in site.services %}
+		<h2>{{ service.name }} - {{ service.version }}</h2>
+		
+		<p>{{ service.content | markdownify }}</p>
+
+		<a href="{{ service.link }}" class="more-information">More Information</a>
+	{% endfor %}
+</div>
