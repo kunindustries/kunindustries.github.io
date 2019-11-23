@@ -5,7 +5,7 @@ permalink: /services/
 ---
 
 <div class="services">
-  {% for post in site.posts %}
+  {% for post in site.projects %}
     <div class="service">
 
       <h1><a href="{{ site.baseurl }}{{ service.url }}">{{ service.title }}</a></h1>
@@ -18,8 +18,3 @@ permalink: /services/
     </div>
   {% endfor %}
 </div>
-
-
----
-
-[This website is on GitHub.](https://github.com/kunindustries/kunindustries.github.io), and it was built using [Jekyll-Now](https://github.com/barryclark/jekyll-now)
