@@ -13,7 +13,7 @@ The main drive behind Kun Industries is to be good people. We want to help peopl
 - [Technology Specialists](../services/tech)  
 - [Digital Media](../services/media)
 - Kun Militia 
-- Engineering  
+- [Engineering](../services/engineering)
 
 Contact Email: contact@kunindustries.com  
 Support Email: support@kunindustries.com  
