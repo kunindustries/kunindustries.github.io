@@ -13,4 +13,4 @@ pricing is based on the following:
 - time required to work
 - work related expenses
 
-[mailto:contact@kunindustries.com](contact@kunindustries.com)
+contact us to arrange work: [contact@kunindustries.com](mailto:contact@kunindustries.com)
