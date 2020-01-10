@@ -12,8 +12,9 @@ The main drive behind Kun Industries is to be good people. We want to help peopl
 ## Subsidiaries and Branches
 - [Technology Specialists](../services/tech)  
 - [Digital Media](../services/media)
-- Kun Militia 
+- [Labour Services](../services/labour)
 - [Engineering](../services/engineering)
+- [Game Server Hosting](../services/gaming)
 
 Contact Email: contact@kunindustries.com  
 Support Email: support@kunindustries.com  
