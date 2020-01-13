@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Technology Specialists
+title: Technology Services
 permalink: /services/tech
 ---
 
@@ -28,7 +28,7 @@ Do you have a great idea for an app or game?
 Do you need someone to finish your Computer Science project?  
 Do you need to replace a system with something more modern?  
 
-Look no further than the Kun Industries Technology Specialists Software Development team. We'll build that shit for you right on the spot, as long as you spot me some cash.  
+Look no further than the Kun Industries Technology Services Software Development team. We'll build that shit for you right on the spot, as long as you spot me some cash.  
 
 We can develop software for:
 - The Web
