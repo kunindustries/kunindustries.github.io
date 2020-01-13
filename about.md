@@ -9,13 +9,6 @@ Kun Industries is basically just a way to keep our business operations separate 
 <!-- the following semicolon may not be correct. i'm not for sure, but i'm not going to look it up. if you believe this semicolon was written in error, please contact support@kunindustries.com -->
 The main drive behind Kun Industries is to be good people. We want to help people, and make people happy; and we want to do it right.  
 
-## Subsidiaries and Branches
-- [Technology Specialists](../services/tech)  
-- [Digital Media](../services/media)
-- [Labour Services](../services/labour)
-- [Engineering](../services/engineering)
-- [Game Server Hosting](../services/gaming)
-
 Contact Email: contact@kunindustries.com  
 Support Email: support@kunindustries.com  
   
