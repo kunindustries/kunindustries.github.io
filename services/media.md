@@ -6,6 +6,9 @@ permalink: /services/media
 
 We do video production. Multiple years of experience with editing in Vegas, effects in After Effects, and animation in Cinema4d.
 
+## Video 
+We can help you produce small scale content, and provide equipment like green screens, lights, and microphones.
+
 ## Editing
 We will do simple video editing for very low prices, sometimes even free, depending on the size of your project. Simple video editing basically includes moving around video clips and working with audio such as voice lines, foly sound, and music. 
 
