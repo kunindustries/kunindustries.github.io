@@ -10,7 +10,7 @@ pricing is loose, but based on the following:
 - work related expenses
 - in or outdoor work
 
-## [Lawn and Garden care](https://kunindustries.com/services/lawncare/)github.io/
+## [Lawn and Garden care](https://kunindustries.com/services/lawncare/)
 Mowing, weed eating, edging, cleaning. Replacing a flower bed with mulch. Making things look pretty. 
 
 ## Oversized Load Pilot or Chase
