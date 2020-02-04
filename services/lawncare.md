@@ -4,11 +4,11 @@ title: Lawn Care
 permalink: /services/lawncare
 ---
 
-Basic Lawn care services:
+Basic lawn care services:
   - Mowing
   - Weed eating
   
-Additional Services
+Additional services:
   - Edging
   - Cleaning
   - Gardening
