@@ -40,8 +40,6 @@ We can develop software for:
 - Linux
   - Mint
   - Raspbian
-    - Strech
-	- Jessie
 
 # Misc. Services
 ## Recycling
