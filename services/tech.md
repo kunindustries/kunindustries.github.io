@@ -24,6 +24,8 @@ We can repair most personal computing devices like laptops and desktops. Obvious
 Pricing is simply what we had to spend to fix it. Tools if we needed them, and parts.
 
 # Software Development
+Our mission is to provide free and open-ended software that grows and develops alongside the people who use it.
+
 Do you have a great idea for an app or game?  
 Do you need someone to finish your Computer Science project?  
 Do you need to replace a system with something more modern?  
