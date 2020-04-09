@@ -1,6 +1,6 @@
 ---
 layout: service
 name: Technology Services
-description: Fixing computers, making software.
+description: Hardware Design & Repair + Software Development
 link: https://kunindustries.com/services/tech
 ---
