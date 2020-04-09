@@ -1,6 +1,6 @@
 ---
 layout: service
 name: Labour Services
-description: Moving things, working bodies.
+description: Lawn Care, Transportation, Roadside Assistance, Community Service, General Maintenance
 link: https://kunindustries.com/services/labour
 ---
