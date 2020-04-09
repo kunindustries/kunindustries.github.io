@@ -1,6 +1,6 @@
 ---
 layout: service
 name: Engineering
-description: Making suits, swords, and swings.
+description: High-quality, to-spec, custom designs made real.
 link: https://kunindustries.com/services/engineering
 ---
