@@ -13,7 +13,7 @@ permalink: /services/lawncare
 
 **Minimum Price: $20**
 
-Additional cosed is based on the following factors:
+Additional costs are based on the following factors:
 - Property Size
   - Fuel Consumed
   - Time Spent
