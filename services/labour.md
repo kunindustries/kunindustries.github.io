@@ -21,5 +21,6 @@ Light Cargo Transport. Three thousand (3,000) pounds maximum.
 
 ## Roadside Recovery
 Small stuff. We can come jump start your car. Maybe pull it out of some mud you're stuck in. Swap a tire or bring you gas.
+You pay fuel, $20/hr and the price of any tools or parts required.
 
 contact us to arrange work: [contact@kunindustries.com](mailto:contact@kunindustries.com)
