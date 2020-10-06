@@ -13,4 +13,4 @@ Kun Industries was founded in 2016, following the release of the [Executives and
 
 ---
 
-[This website is on GitHub](https://github.com/kunindustries/kunindustries.github.io), and it was built using [Jekyll-Now](https://github.com/barryclark/jekyll-now) \| [Employee Portal](http://employee.kunindustries.com)
+[This website is on GitHub](https://github.com/kunindustries/kunindustries.github.io), and it was built using [Jekyll-Now](https://github.com/barryclark/jekyll-now) \| [Web Portal](http://portal.kunindustries.com)
