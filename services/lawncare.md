@@ -11,9 +11,10 @@ permalink: /services/lawncare
 | Edging              | Yard Cleaning       |
 
 
-**Minimum Price: $20**
+[**Get an easy quote**](https://portal.kunindustries.com/serivces/lawncare/quote.php)
 
 Additional costs are based on the following factors:
+- Property Location
 - Property Size
   - Fuel Consumed
   - Time Spent
