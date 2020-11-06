@@ -11,7 +11,7 @@ permalink: /services/lawncare
 | Edging              | Yard Cleaning       |
 
 
-[**Get an easy quote**](https://portal.kunindustries.com/services/lawncare/quote.php)
+[**Get an easy quote**](http://portal.kunindustries.com/services/lawncare/quote.php)
 
 Additional costs are based on the following factors:
 - Property Location
