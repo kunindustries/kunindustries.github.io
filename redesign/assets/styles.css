@@ -77,7 +77,27 @@ body
     flex: 1;
 }
 
-@media(max-width: 444px) 
+.contact-container
+{
+    display: flex;
+}
+
+.contact-container > div
+{
+    margin-right: 1.5%;
+}
+
+.contact-container .contact-form
+{
+    min-width: 60%;
+}
+
+.contact-container .contact-info
+{
+    min-width: 38%;
+}
+
+@media(max-width: 500px) 
 {
     .footer
     {
@@ -94,6 +114,11 @@ body
     {
         margin-top: 1.5em;
         margin-bottom: 1em;
+    }
+    
+    .contact-container
+    {
+        display: block;
     }
 }
 
