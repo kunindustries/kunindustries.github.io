@@ -1,12 +1,7 @@
-
-<?php
-    require_once("../inc/config.php");
-?>
-
 <!doctype html>
 <html lang="en">
     <head>
-        <title>Blog - <?php echo $siteName; ?></title>
+        <title>Blog - Kun Industries</title>
         
         <meta name="description" content="Do it right.">
         
@@ -20,11 +15,9 @@
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
         
         <!-- comic styles -->
-        <link rel="stylesheet" href="../assets/styles.css">
+        <link rel="stylesheet" href="../assets/styles.css" />
         
-        <?php
-            echo '<link rel="shortcut icon" href="../assets/favicon.ico?t=' . time() . '" />';
-        ?>
+        <link rel="shortcut icon" href="../assets/favicon.ico" />
     </head>
     
     <body>
